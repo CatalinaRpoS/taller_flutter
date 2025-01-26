@@ -1,6 +1,6 @@
-# taller_flutter
+# Taller de Flutter
 
-A new Flutter project.
+**Curso:** Desarrollo Móvil 2024-2S.
 
 ## Getting Started
 
